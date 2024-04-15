@@ -1,0 +1,51 @@
+.main-outer-div {
+  margin: 100px auto;
+
+  width: 500px;
+  height: 200px;
+  align-items: center;
+  padding: 50px;
+}
+.Name {
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: purple;
+  margin: 10px;
+}
+.input {
+  margin: 10px;
+}
+.Course {
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: purple;
+}
+.btn-dounload {
+  padding: 20px 10px;
+  background-color: purple;
+  margin: 60px 50px;
+  border-radius: 25px;
+  width: 160px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.btn-dounload:hover {
+  background-color: rgb(211, 11, 134);
+  transition: all 0.3s ease-in-out;
+}
+.selector {
+  margin: 10px;
+  padding: 10px;
+  background-color: purple;
+  border: none;
+  border-radius: 12px;
+  width: 150px;
+  color: white;
+  cursor: pointer;
+}
+.selector-options {
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+}
