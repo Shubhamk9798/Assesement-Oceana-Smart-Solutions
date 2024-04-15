@@ -108,7 +108,7 @@ const BtechTableHeader2 = () => (
 );
 const BtechTableHeader3 = () => (
   <View style={styles.container}>
-    <Text style={styles.year}>1</Text>
+    <Text style={styles.year}>2</Text>
     <Text style={styles.oneTimeFees}>-</Text>
     <Text style={styles.tutionFees}>160</Text>
     <Text style={styles.installments}>4 &times; 40</Text>
@@ -124,7 +124,7 @@ const MtechTableHeader2 = () => (
 );
 const MtechTableHeader3 = () => (
   <View style={styles.container}>
-    <Text style={styles.year}>1</Text>
+    <Text style={styles.year}>2</Text>
     <Text style={styles.oneTimeFees}>-</Text>
     <Text style={styles.tutionFees}>260</Text>
     <Text style={styles.installments}>4 &times; 65</Text>
